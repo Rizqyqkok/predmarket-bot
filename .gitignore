@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.env
+state.json
+lessons.json
+
+.venv/
+venv/
+env/
+
+.pytest_cache/
